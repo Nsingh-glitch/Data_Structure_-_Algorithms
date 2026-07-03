@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0704-binary-search) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0704-binary-search) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
