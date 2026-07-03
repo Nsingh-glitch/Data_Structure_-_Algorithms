@@ -15,7 +15,7 @@ class Solution:
 
                 if curr_dist > dist[u]:
                     continue
-                if not online[u]:  # ✅ Skip offline nodes
+                if not online[u]:  # Skip offline nodes
                     continue
                 if curr_dist > k:
                     continue
@@ -23,7 +23,7 @@ class Solution:
                     return True
 
                 for v, wt in adj[u]:
-                    if not online[v]:  # ✅ Skip offline neighbors
+                    if not online[v]:  # Skip offline neighbors
                         continue
                     if wt < mid:
                         continue
