@@ -1,5 +1,5 @@
 # Data_Structure_-_Algorithms
-A collection of LeetCode questions to ace the coding interview! 
+Collection of LeetCode questions!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
