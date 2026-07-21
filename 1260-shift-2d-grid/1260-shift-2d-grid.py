@@ -1,37 +1,27 @@
 class Solution:
-    def shiftGrid(self, grid: List[List[int]], t: int) -> List[List[int]]:
-        m=len(grid)
-        n=len(grid[0])
-        
-        # 1. first flatten the grid and rotate it k times
-        temp=[0 for _ in range(m*n) ]
+    def shiftGrid(self, grid: List[List[int]], k: int) -> List[List[int]]:
+        m,n=len(grid),len(grid[0])
+        N=m*n
+        k%=N
+        if not k:return grid
 
-          #---->better way to flatten the 2d arr into 1d 
-        for i in range(m):
-            for j in range(n):
-                temp[n*i+j]=grid[i][j]
+        def shift(i,j):
+            while i<=j:
+                grid[i//n][i%n] , grid[j//n][j%n] = grid[j//n][j%n] , grid[i//n][i%n]
+                i+=1
+                j-=1
 
 
 
-        t%=m*n
-            
-        def x(temp,k):
-            n=len(temp)
-            ans=[0]*n
 
-            for i in range(n):
-                ans[i]=temp[(i+k)%n]
-            return ans
-
-        # 2. after rotation now update the grid with rotate elements
-        new=x(temp,(m*n)-t)   
-
-        mult=0
-        for i in range(m):
-            for j in range(n):
-                
-                grid[i][j]=new[j+mult]
-
-            mult+=n
-
+        shift(0,N-1)
+        shift(0,k-1)
+        shift(k,N-1)
         return grid
+
+
+        '''this one is better apporoach direclty applying 1-d rotation logic
+            on 2-d grid converting each 1-d ind in 2-d indices
+            TC: O(m*n)
+            SC: O(1)
+        '''
