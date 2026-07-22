@@ -1,23 +1,29 @@
 class Solution:
-    def trap(self, height: List[int]) -> int:
-        n=len(height)
+    def trap(self, nums: List[int]) -> int:
+        n=len(nums)
         ans=0
-        
-        prfx=[0]*n
-        sufx=[0]*n
-        prfx[0]=height[0]
-        sufx[-1]=height[-1]
+        lmax=rmax=0
 
-        for i in range(1,n):
-            prfx[i]=max(prfx[i-1],height[i])
-        
-        for i in range(n-2,-1,-1):
-            sufx[i]=max(sufx[i+1],height[i])
+        left=0
+        right=n-1
+        total=0
 
+        while left<right:
+            if nums[left]<=nums[right]:
+                if nums[left]<lmax:
+                    total+=lmax-nums[left]
+                else:
+                    lmax=nums[left]
+                left+=1
+            
+            else:
+                if nums[right]<rmax:
+                    total+=rmax-nums[right]
 
-        for i in range(n):
-            ans+=min(prfx[i],sufx[i])-height[i]
-        return ans
-    
+                else:
+                    rmax=nums[right]
+
+                right-=1
+        return total
 
         
