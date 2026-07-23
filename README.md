@@ -16,6 +16,7 @@ Collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0704-binary-search) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0015-3sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Collection of LeetCode questions!
 | [0142-linked-list-cycle-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -148,4 +151,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
