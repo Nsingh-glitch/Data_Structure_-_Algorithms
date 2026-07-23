@@ -15,6 +15,7 @@ Collection of LeetCode questions!
 | [0056-merge-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -155,4 +156,12 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
