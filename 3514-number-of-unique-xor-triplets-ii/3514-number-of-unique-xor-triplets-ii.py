@@ -1,18 +1,25 @@
 class Solution:
     def uniqueXorTriplets(self, nums: List[int]) -> int:
+        n = len(nums)
+        ele=max(nums)
+        u=1
+        while u<=ele:
+            u<<=1
         
-        n=len(nums)
-        if n==0 or n==1:return n
-        s=set()
-        T=set()
+        ones=[False]*u
+        twos=[False]*u
+        thres=[False]*u
+
         for i in range(n):
-            for j in range(i+1,n):
-                s.add(nums[i]^nums[j])
-        s=list(s)
+            ones[nums[i]]=True
+            for j in range(u):
+                if ones[j]:
+                    twos[j^nums[i]]=True
+
+
         for i in range(n):
-            for k in range(len(s)):
-                T.add(nums[i]^s[k])
+            for k in range(u):
+                if twos[k]:
+                    thres[nums[i]^k]=True
 
-
-
-        return len(T)
+        return sum(1 for b in thres if b)        
