@@ -1,39 +1,28 @@
 class Solution:
     def getPermutation(self, n: int, k: int) -> str:
+        ans=''
+        fact=1
+        numbers=[]
+        for i in range(1,n):
+            fact*=i
+            numbers.append(i)
+
+        numbers.append(n)
         k-=1
-        nums=[]
-        N=math.factorial(n)
-        k%=N
+        
+        while True:
+            ele=numbers[k//fact]
+            ans+=str(ele)
+            numbers.remove(ele)
 
-        for i in range(n):
-            nums.append(i+1)
+            if len(numbers)==0:return ans
 
-        if not k:return ''.join(map(str, nums))
+            k%=fact
+            fact=fact//len(numbers)
 
-        def next_permut(arr):
-            dip_ind=-1
-            for i in range(n-2,-1,-1):
-                if arr[i]<arr[i+1]:
-                    dip_ind=i
-                    break
-            if dip_ind==-1:
-                arr.reverse()
-                return arr
+        return -1
+
+
+
             
-            for i in range(n-1,-1,-1):
-                if arr[i]>arr[dip_ind]:
-                    temp=arr[i]
-                    arr[i]=arr[dip_ind]
-                    arr[dip_ind]=temp
 
-                    break
-            l=dip_ind+1
-            r=n-1
-            arr = arr[:l] + arr[l:r+1][::-1] + arr[r+1:]
-            return arr
-
-        for _ in range(k):
-            nums=next_permut(nums)
-           
-
-        return ''.join(map(str, nums))
