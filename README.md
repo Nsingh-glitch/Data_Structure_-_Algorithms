@@ -122,6 +122,7 @@ Collection of LeetCode questions!
 | [0002-add-two-numbers](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -142,6 +143,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0060-permutation-sequence) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
