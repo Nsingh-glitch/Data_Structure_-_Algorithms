@@ -3,28 +3,33 @@ class Solution:
         if num1 == "0" or num2 == "0":
             return "0"
 
-        m, n = len(num1), len(num2)
-        ans = [0] * (m + n)
+        def convert(s):
+            num = 0
+            for ch in s:
+                num = num * 10 + (ord(ch) - ord('0'))
+            return num
 
-        # Multiply from right to left
+        def int_to_string(num):
+            if num == 0:
+                return "0"
+
+            chars = []
+            while num > 0:
+                chars.append(chr(num % 10 + ord('0')))
+                num //= 10
+
+            chars.reverse()
+            return "".join(chars)
+
+        m = len(num1)
+        e2 = convert(num2)
+
+        mult = 1
+        ans = 0
+
         for i in range(m - 1, -1, -1):
-            for j in range(n - 1, -1, -1):
-                d1 = ord(num1[i]) - ord('0')
-                d2 = ord(num2[j]) - ord('0')
+            digit = ord(num1[i]) - ord('0')
+            ans += digit * e2 * mult
+            mult *= 10
 
-                product = d1 * d2
-
-                p1 = i + j
-                p2 = i + j + 1
-
-                total = ans[p2] + product
-
-                ans[p2] = total % 10
-                ans[p1] += total // 10
-
-        # Remove leading zeros
-        i = 0
-        while i < len(ans) - 1 and ans[i] == 0:
-            i += 1
-
-        return ''.join(str(d) for d in ans[i:])
+        return int_to_string(ans)
