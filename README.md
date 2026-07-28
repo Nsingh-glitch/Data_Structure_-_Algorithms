@@ -82,6 +82,7 @@ Collection of LeetCode questions!
 | [0015-3sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,4 +204,9 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0010-regular-expression-matching) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
