@@ -12,6 +12,7 @@ Collection of LeetCode questions!
 | [0033-search-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0046-permutations) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions!
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0141-linked-list-cycle) |
@@ -176,6 +179,7 @@ Collection of LeetCode questions!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0051-n-queens) |
