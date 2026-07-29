@@ -21,6 +21,7 @@ Collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -78,6 +80,7 @@ Collection of LeetCode questions!
 | [0037-sudoku-solver](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -215,9 +218,18 @@ Collection of LeetCode questions!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0043-multiply-strings) |
+| [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
