@@ -232,4 +232,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
