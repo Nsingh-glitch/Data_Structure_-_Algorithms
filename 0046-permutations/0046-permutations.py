@@ -11,7 +11,6 @@ class Solution:
             
             for v in range(n):
                 if h_map[v]==0:
-                    x(i+1,h_map,st)
                     st.append(nums[v])
                     
                     h_map[v]=1
