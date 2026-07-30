@@ -18,6 +18,7 @@ Collection of LeetCode questions!
 | [0046-permutations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
