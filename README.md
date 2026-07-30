@@ -158,6 +158,7 @@ Collection of LeetCode questions!
 | [0002-add-two-numbers](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0060-permutation-sequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
@@ -179,6 +180,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Collection of LeetCode questions!
 | [0010-regular-expression-matching](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0043-multiply-strings) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
