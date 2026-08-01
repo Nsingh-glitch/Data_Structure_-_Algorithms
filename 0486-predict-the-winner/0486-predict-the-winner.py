@@ -1,12 +1,22 @@
 class Solution:
-    def predictTheWinner(self, A: List[int]) -> bool:
-        n = len(A)
-        if ~n & 1: return True
+    def predictTheWinner(self, nums: List[int]) -> bool:
+        n=len(nums)
+        dp=[[-1 for _ in range(n)]for _ in range(n)]
 
-        @cache
-        def maxDiff(i: int, j: int) -> int:
-            if i == j: return A[i]
-            return max(A[i] - maxDiff(i + 1, j),
-                       A[j] - maxDiff(i, j - 1))
+        def x(i,j):
+            if i==j:
+                return nums[i]
 
-        return maxDiff(0, n - 1) >= 0
+            if dp[i][j]!=-1:
+                return dp[i][j]
+
+            take_i=nums[i]-x(i+1,j)
+
+            take_j=nums[j]-x(i,j-1)
+
+            dp[i][j]= max(take_i,take_j)
+            return dp[i][j]
+
+        return x(0,len(nums)-1)>=0
+
+        
