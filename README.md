@@ -84,6 +84,7 @@ Collection of LeetCode questions!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -104,6 +105,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0015-3sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0056-merge-intervals) |
+| [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
@@ -167,6 +169,7 @@ Collection of LeetCode questions!
 | [0142-linked-list-cycle-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -281,4 +284,12 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
