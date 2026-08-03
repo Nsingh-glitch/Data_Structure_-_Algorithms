@@ -84,6 +84,7 @@ Collection of LeetCode questions!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -112,6 +113,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -124,6 +126,7 @@ Collection of LeetCode questions!
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -135,6 +138,7 @@ Collection of LeetCode questions!
 | [0002-add-two-numbers](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0138-copy-list-with-random-pointer) |
@@ -292,4 +296,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
