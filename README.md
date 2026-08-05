@@ -77,6 +77,7 @@ Collection of LeetCode questions!
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -238,10 +239,12 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
