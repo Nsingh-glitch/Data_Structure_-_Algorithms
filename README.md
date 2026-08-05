@@ -102,6 +102,7 @@ Collection of LeetCode questions!
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [3731-find-missing-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -148,6 +149,7 @@ Collection of LeetCode questions!
 | [0138-copy-list-with-random-pointer](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -306,4 +309,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
