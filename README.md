@@ -47,6 +47,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0877-stone-game) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions!
 | [0046-permutations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0043-multiply-strings) |
+| [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
