@@ -40,6 +40,7 @@ Collection of LeetCode questions!
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions!
 | [0142-linked-list-cycle-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ Collection of LeetCode questions!
 | [0215-kth-largest-element-in-an-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
