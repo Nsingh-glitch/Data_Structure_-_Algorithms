@@ -101,6 +101,7 @@ Collection of LeetCode questions!
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -262,6 +263,7 @@ Collection of LeetCode questions!
 ## Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -276,6 +278,7 @@ Collection of LeetCode questions!
 ## Binary Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String
 |  |
@@ -332,10 +335,12 @@ Collection of LeetCode questions!
 | [0146-lru-cache](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -368,4 +373,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
