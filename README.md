@@ -99,6 +99,7 @@ Collection of LeetCode questions!
 | [0023-merge-k-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -116,6 +117,7 @@ Collection of LeetCode questions!
 | [0142-linked-list-cycle-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions!
 | [0206-reverse-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -328,6 +331,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0146-lru-cache](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
 ## Data Stream
 |  |
 | ------- |
