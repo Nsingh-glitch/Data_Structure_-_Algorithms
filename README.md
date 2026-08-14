@@ -216,6 +216,7 @@ Collection of LeetCode questions!
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -224,6 +225,7 @@ Collection of LeetCode questions!
 | [0043-multiply-strings](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
+| [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions!
 | [0043-multiply-strings](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0043-multiply-strings) |
 | [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
+| [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
