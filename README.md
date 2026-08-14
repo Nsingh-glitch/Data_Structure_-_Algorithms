@@ -34,6 +34,7 @@ Collection of LeetCode questions!
 | [0540-single-element-in-a-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0704-binary-search) |
+| [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions!
 | [0347-top-k-frequent-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3731-find-missing-elements) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions!
 | [0347-top-k-frequent-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3731-find-missing-elements) |
@@ -248,6 +251,7 @@ Collection of LeetCode questions!
 | [0011-container-with-most-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
