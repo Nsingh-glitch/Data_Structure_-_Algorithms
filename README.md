@@ -37,6 +37,7 @@ Collection of LeetCode questions!
 | [0704-binary-search](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0877-stone-game) |
+| [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1260-shift-2d-grid) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions!
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0877-stone-game) |
+| [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
@@ -240,6 +242,7 @@ Collection of LeetCode questions!
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
 | ------- |
@@ -250,6 +253,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
