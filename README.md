@@ -23,6 +23,7 @@ Collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
 ## Binary Search
@@ -244,6 +247,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0503-next-greater-element-ii) |
@@ -260,6 +264,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
