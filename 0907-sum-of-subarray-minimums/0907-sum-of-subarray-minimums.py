@@ -1,36 +1,24 @@
 class Solution:
-    def sumSubarrayMins(self, arr: List[int]) -> int:
-        st=[]
-        mod=1000000000+7
-        n=len(arr)
-        prfx=[-1]*n
-        suffx=[n]*n
+    def sumSubarrayMins(self, arr):
+        stack = []
+        ans = 0
+        n = len(arr)
 
+        for i in range(n + 1):
+            current = arr[i] if i < n else 0
 
-        st=[0]
-        for i in range(1,n):
-            while st and arr[st[-1]]>=arr[i]:
-                st.pop()
-            if st :
-                prfx[i]=st[-1]
+            while stack and (i == n or arr[stack[-1]] >current):
+                mid = stack.pop()
 
-            st.append(i)
+                if not stack:
+                    left = mid + 1
+                else:
+                    left = mid - stack[-1]
 
-        st=[n-1]
-        for i in range(n-2,-1,-1):
-            while st and arr[st[-1]]>arr[i]:
-                st.pop()
-            if st :
-                suffx[i]=st[-1]
+                right = i - mid
 
-            st.append(i)
+                ans += arr[mid] * left * right
 
-      
+            stack.append(i)
 
-        ans=0
-        for i in range(n):
-            p1=i-prfx[i]
-            p2=suffx[i]-i
-            ans+=p1*p2*arr[i]
-
-        return ans%mod
+        return ans%1000000007
