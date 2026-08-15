@@ -22,6 +22,7 @@ Collection of LeetCode questions!
 | [0057-insert-interval](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0503-next-greater-element-ii) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
@@ -415,4 +418,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
