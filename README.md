@@ -16,6 +16,7 @@ Collection of LeetCode questions!
 | [0037-sudoku-solver](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0055-jump-game) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
