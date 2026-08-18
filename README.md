@@ -103,6 +103,7 @@ Collection of LeetCode questions!
 | [0493-reverse-pairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0704-binary-search) |
+| [0732-my-calendar-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0732-my-calendar-iii) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -180,6 +181,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0493-reverse-pairs) |
+| [0732-my-calendar-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0732-my-calendar-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
@@ -190,6 +192,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0493-reverse-pairs) |
+| [0732-my-calendar-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0732-my-calendar-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Linked List
 |  |
@@ -389,6 +392,7 @@ Collection of LeetCode questions!
 ## Prefix Sum
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
 ## Design
@@ -398,6 +402,7 @@ Collection of LeetCode questions!
 | [0295-find-median-from-data-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0732-my-calendar-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0732-my-calendar-iii) |
 ## Data Stream
 |  |
 | ------- |
