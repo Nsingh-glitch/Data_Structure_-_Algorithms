@@ -69,6 +69,7 @@ Collection of LeetCode questions!
 | [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions!
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
@@ -281,6 +283,7 @@ Collection of LeetCode questions!
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -333,6 +336,7 @@ Collection of LeetCode questions!
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -438,4 +442,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
