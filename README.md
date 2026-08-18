@@ -51,6 +51,7 @@ Collection of LeetCode questions!
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions!
 | [0678-valid-parenthesis-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0860-lemonade-change) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
