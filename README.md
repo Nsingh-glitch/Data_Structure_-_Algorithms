@@ -57,6 +57,7 @@ Collection of LeetCode questions!
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions!
 | [0735-asteroid-collision](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
