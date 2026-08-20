@@ -27,6 +27,7 @@ Collection of LeetCode questions!
 | [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions!
 | [0011-container-with-most-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
