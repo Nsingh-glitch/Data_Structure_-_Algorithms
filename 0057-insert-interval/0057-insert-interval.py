@@ -1,23 +1,17 @@
 class Solution:
-    def insert(self, it: List[List[int]], newInterval: List[int]) -> List[List[int]]:
-        it.append(newInterval)
-        it.sort()
+    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+        intervals.append(newInterval)
+        intervals.sort()
+        st=[intervals[0]]
+        for i in range(1,len(intervals)):
+            u,v=intervals[i]
 
-        ans=[]
-        for i in it:
-            if not ans:
-                ans.append(i)
-                continue
-
-            u,v=i[0],i[1]
-            n_u,n_v=ans[-1][0],ans[-1][1]
-
-            if u<=n_v:
-                ans.pop()
-                new=[n_u,max(v,n_v)]
-                ans.append(new)
-               
+            x,y=st[-1]
+            if y>=u:
+                st.pop()
+                st.append([x,max(v,y)])
             else:
-                ans.append(i)
+                st.append([u,v])
 
-        return ans
+        return st
+        
