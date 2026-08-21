@@ -34,7 +34,7 @@ class Solution:
             return all_total
                 
         left=0
-        right=10**11
+        right = min(coins) * k
         while left <=right:
             mid=(left+right)//2
             val=func(mid)
