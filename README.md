@@ -267,6 +267,7 @@ Collection of LeetCode questions!
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
 | ------- |
