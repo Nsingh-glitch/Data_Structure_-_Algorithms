@@ -75,6 +75,7 @@ Collection of LeetCode questions!
 | [0045-jump-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0435-non-overlapping-intervals) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions!
 | [0102-binary-tree-level-order-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -369,6 +372,7 @@ Collection of LeetCode questions!
 | [0102-binary-tree-level-order-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -506,5 +510,6 @@ Collection of LeetCode questions!
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
