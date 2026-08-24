@@ -267,6 +267,7 @@ Collection of LeetCode questions!
 | [1510-stone-game-iv](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions!
 | [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1927-sum-game) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
@@ -390,6 +392,7 @@ Collection of LeetCode questions!
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [1927-sum-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -431,6 +434,7 @@ Collection of LeetCode questions!
 | [1510-stone-game-iv](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
