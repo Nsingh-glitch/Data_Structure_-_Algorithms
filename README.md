@@ -54,6 +54,7 @@ Collection of LeetCode questions!
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions!
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -264,6 +266,7 @@ Collection of LeetCode questions!
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -427,12 +430,14 @@ Collection of LeetCode questions!
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
 ## Design
 |  |
 | ------- |
@@ -463,6 +468,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -475,6 +481,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
