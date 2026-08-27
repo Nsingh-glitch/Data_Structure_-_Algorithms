@@ -157,6 +157,7 @@ Collection of LeetCode questions!
 | [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions!
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1094-car-pooling) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions!
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -367,6 +370,7 @@ Collection of LeetCode questions!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -376,6 +380,7 @@ Collection of LeetCode questions!
 | [0102-binary-tree-level-order-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -390,6 +395,7 @@ Collection of LeetCode questions!
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String
 |  |
