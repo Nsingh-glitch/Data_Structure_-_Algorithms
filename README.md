@@ -163,6 +163,7 @@ Collection of LeetCode questions!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -325,6 +326,7 @@ Collection of LeetCode questions!
 | [1927-sum-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1927-sum-game) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -347,6 +349,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -411,12 +414,14 @@ Collection of LeetCode questions!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
