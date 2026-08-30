@@ -14,13 +14,9 @@ class Solution:
                 min_ind=i
         ans=1e9
         n=len(nums)
+        l, r=min(min_ind,max_ind), max(min_ind,max_ind)
 
-        ans=min(ans,max(min_ind,max_ind)+1)
-
-        ans=min(ans,max(n-min_ind,n-max_ind))
-
-        ans=min(ans,min(min_ind+1,n-min_ind)+min(max_ind+1,n-max_ind))
-        return ans
+        return min(r+1,n-l,l+1+n-r)
 
             
         
