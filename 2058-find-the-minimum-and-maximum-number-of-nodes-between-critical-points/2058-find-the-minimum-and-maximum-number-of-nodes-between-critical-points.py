@@ -7,24 +7,24 @@ class Solution:
     def nodesBetweenCriticalPoints(self, head: Optional[ListNode]) -> List[int]:
         curr=head
         prev=None
-        tmp=[]
         ind=1
-        while curr:
-            if prev!=curr and curr.next and prev:
+        first_c_point=-1
+        prev_c_point=-1
+        min_dist=1e9
+
+        while curr.next:
+            if prev!=curr and prev:
                 if (curr.val>prev.val and curr.val>curr.next.val) or (curr.val<prev.val and curr.val<curr.next.val):
-                    tmp.append(ind)
+                    if first_c_point==-1:
+                        first_c_point=ind
+                        
+                    else:
+                        min_dist=min(min_dist,ind-prev_c_point)
+                    prev_c_point=ind
             prev=curr
             curr=curr.next
             ind+=1
-        if not tmp or ind<3:
-            return [-1,-1]
 
-        maxi=max(tmp)
-        mini=min(tmp)
-        a=maxi-mini
-        tmp.sort()
-        min_diff=1e9
-        for i in range(1,len(tmp)):
-            min_diff=min(min_diff,tmp[i]-tmp[i-1])
-        return [min_diff,a] if min_diff !=1e9 else [-1,-1]
-            
+        if min_dist==1e9:return [-1,-1]
+
+        return [min_dist,prev_c_point-first_c_point]
