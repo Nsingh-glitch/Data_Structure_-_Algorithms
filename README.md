@@ -231,6 +231,7 @@ Collection of LeetCode questions!
 | [0237-delete-node-in-a-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
