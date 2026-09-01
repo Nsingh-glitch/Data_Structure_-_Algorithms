@@ -160,6 +160,7 @@ Collection of LeetCode questions!
 | [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -375,6 +376,7 @@ Collection of LeetCode questions!
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -391,6 +393,7 @@ Collection of LeetCode questions!
 | [0662-maximum-width-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -404,6 +407,7 @@ Collection of LeetCode questions!
 | [0662-maximum-width-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -424,6 +428,7 @@ Collection of LeetCode questions!
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
