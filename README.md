@@ -28,6 +28,7 @@ Collection of LeetCode questions!
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions!
 | [0037-sudoku-solver](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0141-linked-list-cycle) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions!
 | [0004-median-of-two-sorted-arrays](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0493-reverse-pairs) |
@@ -375,6 +378,7 @@ Collection of LeetCode questions!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -429,6 +433,7 @@ Collection of LeetCode questions!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
