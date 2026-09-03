@@ -299,6 +299,7 @@ Collection of LeetCode questions!
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
@@ -381,6 +382,7 @@ Collection of LeetCode questions!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0222-count-complete-tree-nodes) |
@@ -400,6 +402,7 @@ Collection of LeetCode questions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -436,6 +439,7 @@ Collection of LeetCode questions!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0222-count-complete-tree-nodes) |
