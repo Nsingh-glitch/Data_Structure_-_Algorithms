@@ -74,6 +74,7 @@ Collection of LeetCode questions!
 | [3731-find-missing-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -522,6 +523,7 @@ Collection of LeetCode questions!
 | [1094-car-pooling](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3904-smallest-stable-index-ii) |
 ## Design
 |  |
 | ------- |
