@@ -301,6 +301,7 @@ Collection of LeetCode questions!
 | [0042-trapping-rain-water](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -376,6 +377,7 @@ Collection of LeetCode questions!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0101-symmetric-tree) |
@@ -405,6 +407,7 @@ Collection of LeetCode questions!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0101-symmetric-tree) |
@@ -441,6 +444,7 @@ Collection of LeetCode questions!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0101-symmetric-tree) |
