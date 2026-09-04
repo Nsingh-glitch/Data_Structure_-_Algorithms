@@ -9,8 +9,6 @@ class Solution:
     def lowestCommonAncestor(self, node: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         curr=node
         while curr:
-            if not curr:return 
-
             if curr.val>p.val and curr.val>q.val:
                 curr=curr.left
 
@@ -20,5 +18,3 @@ class Solution:
             else:
                 return curr
 
-
-        return curr
