@@ -6,34 +6,30 @@
 #         self.right = right
 class Solution:
     def minCameraCover(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return 0
-
-
-
-        covered=set()
-        covered.add(None)
-        ans=0
-
-        def x(root,parent):
-            nonlocal ans
-            if root:
-                x(root.left,root)
-                x(root.right,root)
-                if root.left not in covered or root.right not in covered:
-                    covered.add(root)
-                    covered.add(parent)
-                    covered.add(root.left)
-                    covered.add(root.right)
-                    ans+=1
-
-        x(root,None)
-        if root not in covered:
-            ans+=1
-        return ans
-
-
-
+        # 0-->Not covered
+        # 1-->Covered
+        # 2-->Camera Placed
+        self.cam=0
+        def dfs(root):
+            if not root:
+                return 1
             
+            l=dfs(root.left)
+            r=dfs(root.right)
+
+            if l==0 or r==0:
+                self.cam+=1
+                return 2
+
+            elif l==2 or r==2:
+                return 1
+            
+            else:
+                return 0
+
+        if dfs(root) == 0:
+            self.cam += 1
+
+        return self.cam
 
         
