@@ -96,6 +96,7 @@ Collection of LeetCode questions!
 | [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1510-stone-game-iv) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions!
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -440,6 +442,7 @@ Collection of LeetCode questions!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
@@ -491,6 +494,7 @@ Collection of LeetCode questions!
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
@@ -622,6 +626,7 @@ Collection of LeetCode questions!
 | [0700-search-in-a-binary-search-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -651,6 +656,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
