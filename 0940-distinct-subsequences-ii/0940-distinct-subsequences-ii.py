@@ -11,7 +11,7 @@ class Solution:
             prev[i] = last_seen[idx]
             last_seen[idx] = i
 
-        dp = [-1] * (n + 1)
+        dp = [0] * (n + 1)
 
         def solve(i):
             if i == 0:
@@ -28,4 +28,17 @@ class Solution:
             dp[i] = total % MOD
             return dp[i]
 
-        return (solve(n) - 1) % MOD
+        # return (solve(n) - 1) % MOD
+        
+        dp[0]=1
+        for i in range(1,n+1):
+
+
+            total = 2 * dp[i - 1]
+
+            if prev[i] != 0:
+                total -= dp[prev[i] - 1]
+
+            dp[i] = total % MOD
+
+        return (dp[n]-1)% MOD
