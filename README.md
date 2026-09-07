@@ -98,6 +98,7 @@ Collection of LeetCode questions!
 | [0877-stone-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0968-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions!
 | [0402-remove-k-digits](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
