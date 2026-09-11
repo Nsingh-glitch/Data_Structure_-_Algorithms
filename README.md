@@ -33,6 +33,7 @@ Collection of LeetCode questions!
 | [0135-candy](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0403-frog-jump) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
