@@ -87,6 +87,7 @@ Collection of LeetCode questions!
 | [0045-jump-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0115-distinct-subsequences) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions!
 | [0002-add-two-numbers](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0877-stone-game) |
@@ -550,6 +552,7 @@ Collection of LeetCode questions!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
 ## Database
 |  |
