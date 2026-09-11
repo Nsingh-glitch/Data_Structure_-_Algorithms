@@ -428,6 +428,7 @@ Collection of LeetCode questions!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -455,6 +456,7 @@ Collection of LeetCode questions!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -508,6 +510,7 @@ Collection of LeetCode questions!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
