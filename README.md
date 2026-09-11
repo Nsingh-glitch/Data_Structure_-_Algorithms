@@ -35,6 +35,7 @@ Collection of LeetCode questions!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions!
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0139-word-break) |
+| [0403-frog-jump](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0678-valid-parenthesis-string) |
