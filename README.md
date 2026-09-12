@@ -43,6 +43,7 @@ Collection of LeetCode questions!
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions!
 | [0160-intersection-of-two-linked-lists](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0355-design-twitter) |
+| [0525-contiguous-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
@@ -587,6 +589,7 @@ Collection of LeetCode questions!
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0525-contiguous-array) |
 | [0732-my-calendar-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
