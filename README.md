@@ -308,6 +308,7 @@ Collection of LeetCode questions!
 | [0070-climbing-stairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
+| [0836-rectangle-overlap](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
@@ -713,4 +714,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
