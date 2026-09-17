@@ -62,6 +62,7 @@ Collection of LeetCode questions!
 | [1386-cinema-seat-allocation](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions!
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1872-stone-game-viii) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions!
 | [0540-single-element-in-a-sorted-array](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0704-binary-search) |
 | [0732-my-calendar-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0732-my-calendar-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
@@ -189,6 +192,7 @@ Collection of LeetCode questions!
 | [0846-hand-of-straights](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -646,6 +650,7 @@ Collection of LeetCode questions!
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search Tree
 |  |
