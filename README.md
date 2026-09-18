@@ -23,6 +23,7 @@ Collection of LeetCode questions!
 | [0055-jump-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions!
 | [0053-maximum-subarray](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0097-interleaving-string) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0835-image-overlap) |
