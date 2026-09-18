@@ -93,6 +93,7 @@ Collection of LeetCode questions!
 | [0045-jump-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0097-interleaving-string) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions!
 | [0002-add-two-numbers](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
@@ -690,6 +692,7 @@ Collection of LeetCode questions!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
