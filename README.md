@@ -83,6 +83,7 @@ Collection of LeetCode questions!
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions!
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -399,6 +401,7 @@ Collection of LeetCode questions!
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
