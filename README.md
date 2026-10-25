@@ -61,6 +61,7 @@ Collection of LeetCode questions!
 | [1043-partition-array-for-maximum-sum](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1043-partition-array-for-maximum-sum) |
 | [1094-car-pooling](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1406-stone-game-iii) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
 ## Binary Search
@@ -491,6 +493,7 @@ Collection of LeetCode questions!
 | [0662-maximum-width-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -508,6 +511,7 @@ Collection of LeetCode questions!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
@@ -745,4 +749,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0836-rectangle-overlap) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
