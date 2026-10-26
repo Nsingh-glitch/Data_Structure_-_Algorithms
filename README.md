@@ -81,6 +81,7 @@ Collection of LeetCode questions!
 | [3483-unique-3-digit-even-numbers](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions!
 | [1254-number-of-closed-islands](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1463-cherry-pickup-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -499,6 +501,7 @@ Collection of LeetCode questions!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -515,6 +518,7 @@ Collection of LeetCode questions!
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -753,4 +757,5 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
