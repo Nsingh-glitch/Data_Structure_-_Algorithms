@@ -41,6 +41,7 @@ Collection of LeetCode questions!
 | [0347-top-k-frequent-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions!
 | [0060-permutation-sequence](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/Nsingh-glitch/Data_Structure_-_Algorithms/tree/master/0836-rectangle-overlap) |
